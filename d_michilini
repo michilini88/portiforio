@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta></meta>
+    <img></imag>
+    <title>Meu Portiforio</title>
+</head>
+<header>
+    <center>    
+        <h1>DAVID MICHILINI</h1>
+        <h1>A MELHOR FORMA DE PREVER O FUTURO É CRIA-LO</h1>
+
+    </center>
+</header>
+      <body>
+        <center>
+            <h2>BEM VINDO AO MEU PORTIFORIO</h2>
+    
+             <section id="portfolio">
+                <h3>Meu Portiforio</h3>
+                <!-- Add your portfolio items here -->
+            </section>
+    
+            <section id="studies">
+                <h3>Meus Cursos</h3>
+                <!-- Add your study information here -->
+            </section>
+    
+            <section id="certificates">
+                <h3>Meus Certificados</h3>
+                <!-- Add your certificate information here -->
+            </section>
+        </center>
+</body>
+    <footer>
+        <center>
+            <h2> 2024 - D_MICHILINI</h2>
+        </center>
+    </footer>    
+</body>
+</html>
